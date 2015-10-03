@@ -291,7 +291,7 @@
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
-<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
+<v t="amd.20150915211351.9"><vh>第2</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -1990,7 +1990,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;心得與分數&lt;/h1&gt;
     &lt;p&gt;一年級的時候有學到基本的python，現在電腦輔助設計這堂課，學到比之前更進階的觀念，學到如何把python跟Leo Editor做結合，雖然只是皮毛而已，但是慢慢學習一定可以有收穫的！
-    我給我自己的分數：75&lt;/p&gt;
+    我給我自己的分數：75 &lt;/p&gt;
 
 &lt;/section&gt;
 				
