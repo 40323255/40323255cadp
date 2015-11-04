@@ -3,6 +3,7 @@
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;此圖為最後成品圖&lt;p&gt;
 &lt;br/&gt;
 &lt;https://copy.com/UROvg8KgZeBlRnEO&gt;
@@ -22,6 +23,7 @@
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;此圖為使用說明方式所繪製出來的&lt;p&gt;
 &lt;br/&gt;
 
