@@ -316,7 +316,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151104150505.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="leo.20151104150505.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151104150505.2"><vh>檔案說明</vh></v>
 <v t="leo.20151104150505.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151104150505.4" a="E"><vh>body 標註</vh>
@@ -2332,7 +2332,11 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20151018225855.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
     &lt;p&gt;這次使用一套繪圖軟體[ Solvespace ]，使用起來雖然沒有像Solidworks或 Inventor那麼好用，但是它卻是比較容易攜帶得一套軟體，相當是用於在外出差，突然想到甚麼idea，就可拿來使用的。&lt;/p&gt;
+=======
+    &lt;p&gt;這週使用一套繪圖軟體[solvespace]，相對其他繪圖軟體，例如：soildworks、invertor來說，它相對的比較複雜，對於有學習過繪圖的人來說，雖然大同小異，但是我認為它最大的差異就是介面了；但是它的好處就是容易攜帶，它可以讓我們以後能夠出差時，一有idea時就可以馬上畫出來，不怕idea錯過。&lt;/p&gt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 79d224469ab57bb90e025f34cd029544c2b1cbfa
     
 &lt;/section&gt;
 				
