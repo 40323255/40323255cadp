@@ -13,14 +13,14 @@
 <v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-<v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
-<v t="amd.20150919102209.1" a="E"><vh>使用工具</vh>
+<v t="amd.20150915153206.1"><vh>專案說明</vh>
+<v t="amd.20150919102209.1"><vh>使用工具</vh>
 <v t="amd.20150919112415.1"><vh>影片檔案</vh></v>
 </v>
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -36,8 +36,10 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151018225455.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151104150607.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -284,7 +286,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -296,6 +298,38 @@
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151018225855.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151018225855.2"><vh>檔案說明</vh></v>
+<v t="leo.20151018225855.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151018225855.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151018225855.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151018225855.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151018225855.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151018225855.8"><vh>第2</vh></v>
+<v t="leo.20151018225855.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151018225855.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151104150505.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="leo.20151104150505.2"><vh>檔案說明</vh></v>
+<v t="leo.20151104150505.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151104150505.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151104150505.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151104150505.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151104150505.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151104150505.8"><vh>第2</vh></v>
+<v t="leo.20151104152018.1"><vh>第3</vh></v>
+<v t="leo.20151104152602.1"><vh>第4</vh></v>
+<v t="leo.20151104150505.9"><vh>第5</vh></v>
+</v>
+</v>
+<v t="leo.20151104150505.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2238,5 +2272,165 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151018225855.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151018225855.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151018225855.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151018225855.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151018225855.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151018225855.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151018225855.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151018225855.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設二乙&lt;/h2&gt;
+    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151018225855.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;這次使用一套繪圖軟體[ Solvespace ]，使用起來雖然沒有像Solidworks或 Inventor那麼好用，但是它卻是比較容易攜帶得一套軟體，相當是用於在外出差，突然想到甚麼idea，就可拿來使用的。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151018225855.9">&lt;section&gt;
+    &lt;h1&gt;自評分數&lt;/h1&gt;
+    &lt;p&gt;我給我自己的分數：75 &lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151104150505.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151104150505.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151104150505.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151104150505.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151104150505.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151104150505.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151104150505.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151104150505.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;p&gt;四設計二乙&lt;/p&gt;	
+    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151104150505.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric使用心得&lt;/h2&gt;
+    &lt;p&gt;這次使用一套繪圖軟體[ Creo Parametric ]，因為我目前也有在學這套高端的繪圖軟體，所以畫起來蠻得心應手的，我認為它的功能性，跟其他我使用過的繪圖軟體比起來，它的功能性強大很多，它可以用於建立模具上，甚至可以在模具上建立模穴、澆道，對於我而言，是一套值得好好學習的繪圖軟體。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151104150505.9">&lt;section&gt;
+    &lt;h1&gt;自評分數&lt;/h1&gt;
+    &lt;p&gt;我給我自己的分數：80 &lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151104152018.1">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric資料&lt;/h2&gt;
+    &lt;p&gt;Creo Parametric (前身為 Pro/ENGINEER) 已儼然成為 3D CAD 產品設計的標準；它提供了先進的產能工具，不但能夠促成最佳設計工作模式，還能確保符合業界與公司標準。Creo Parametric 擁有業界最廣泛的強大且富彈性 3D CAD 設計功能，可協助您因應最急切的設計挑戰，包括整合後期變更、處理多種 CAD 資料和機電設計。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151104152602.1">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric特點&lt;/h2&gt;
+    &lt;p&gt;1.功能強大且富彈性的參數式 3D CAD 功能創造出卓越的產品區隔和製造可行性。&lt;/p&gt;
+    &lt;p&gt;2.廣泛的概念設計功能協助快速推出新產品上市。&lt;/p&gt;
+    &lt;p&gt;3.整合後期變更，並將設計變更自動傳播到所有下游交付物，這些能力讓您能夠充滿信心地進行設計。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
