@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1"><vh>專案說明</vh>
@@ -36,7 +36,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151018225455.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151104150607.1"><vh>@edit 2015cphww5.md</vh></v>
@@ -318,7 +318,7 @@
 </v>
 <v t="leo.20151104150505.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151104150505.2"><vh>檔案說明</vh></v>
-<v t="leo.20151104150505.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151104150505.3"><vh>html 標註</vh>
 <v t="leo.20151104150505.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151104150505.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151104150505.6" a="E"><vh>div class="slides"</vh>
