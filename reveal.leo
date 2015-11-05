@@ -288,9 +288,9 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1"><vh>html 標註</vh>
+<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
@@ -303,9 +303,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151018225855.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151018225855.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151018225855.2"><vh>檔案說明</vh></v>
-<v t="leo.20151018225855.3"><vh>html 標註</vh>
+<v t="leo.20151018225855.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151018225855.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151018225855.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151018225855.6" a="E"><vh>div class="slides"</vh>
@@ -318,7 +318,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151104150505.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151104150505.1" a="E"><vh>@clean simplest3.html</vh>
 <v t="leo.20151104150505.2"><vh>檔案說明</vh></v>
 <v t="leo.20151104150505.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151104150505.4" a="E"><vh>body 標註</vh>
@@ -575,8 +575,9 @@
 				
 </t>
 <t tx="40323255.20151105165948.11">&lt;section&gt;
-    &lt;h1&gt;自評分數&lt;/h1&gt;
-    &lt;p&gt;我給我自己的分數：80 &lt;/p&gt;
+    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
+    &lt;p&gt;剛接觸Creo，對於它的界面有點不熟悉，因為我平常都是使用SoildWorks，但是視角的觀念、畫圖的觀念，基本上都是一樣的，所以在畫一段時間，一定可以使用Creo畫出其他的東西的。 &lt;/p&gt;
+    &lt;p&gt;自評分數：80 &lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -662,9 +663,9 @@
 				
 </t>
 <t tx="40323255.20151105201832.11">&lt;section&gt;
-    &lt;h1&gt;心得及自評分數&lt;/h1&gt;
+    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
     &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
-    &lt;p&gt;我給我自己的分數：80 &lt;/p&gt;
+    &lt;p&gt;自評分數：80 &lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -2232,7 +2233,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;心得與分數&lt;/h1&gt;
+    &lt;h2&gt;心得與分數&lt;/h2&gt;
     &lt;p&gt;一年級的時候有學到基本的python，現在電腦輔助設計這堂課，學到比之前更進階的觀念，學到如何把python跟Leo Editor做結合，雖然只是皮毛而已，但是慢慢學習一定可以有收穫的！
     我給我自己的分數：75 &lt;/p&gt;
 
@@ -2551,7 +2552,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 				
 </t>
 <t tx="leo.20151018225855.9">&lt;section&gt;
-    &lt;h1&gt;自評分數&lt;/h1&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
     &lt;p&gt;我給我自己的分數：75 &lt;/p&gt;
 
 &lt;/section&gt;
@@ -2624,8 +2625,9 @@ sudo pip3 install IPython[notebook]==3.2.1
 				
 </t>
 <t tx="leo.20151104150505.9">&lt;section&gt;
-    &lt;h1&gt;自評分數&lt;/h1&gt;
-    &lt;p&gt;我給我自己的分數：80 &lt;/p&gt;
+    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
+    &lt;p&gt; 我自己認為將leo、github以及creo連結在一起，蠻不錯的，讓我對近端、遠端有稍微概念，感覺如果繼續往下挖掘，會更上一層程度。&lt;/p&gt;
+    &lt;p&gt;自評分數：80 &lt;/p&gt;
 
 &lt;/section&gt;
 				
