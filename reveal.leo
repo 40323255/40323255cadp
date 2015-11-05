@@ -36,7 +36,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151018225455.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151104150607.1"><vh>@edit 2015cphww5.md</vh></v>
@@ -302,7 +302,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151018225855.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151018225855.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151018225855.2"><vh>檔案說明</vh></v>
 <v t="leo.20151018225855.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151018225855.4" a="E"><vh>body 標註</vh>
@@ -2429,7 +2429,8 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;四設二乙&lt;/h2&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;p&gt;四設計二乙&lt;/p&gt;	
     &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
 &lt;/section&gt;
 	
