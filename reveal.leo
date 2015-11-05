@@ -40,6 +40,7 @@
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151018225455.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151104150607.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="40323255.20151105165631.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -333,6 +334,23 @@
 </v>
 </v>
 </v>
+<v t="40323255.20151105165948.1"><vh>@clean simplest4.html</vh>
+<v t="40323255.20151105165948.2"><vh>檔案說明</vh></v>
+<v t="40323255.20151105165948.3"><vh>html 標註</vh>
+<v t="40323255.20151105165948.4" a="E"><vh>body 標註</vh>
+<v t="40323255.20151105165948.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323255.20151105165948.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20151105165948.7"><vh>有關我的作業</vh></v>
+<v t="40323255.20151105165948.8"><vh>第2</vh></v>
+<v t="40323255.20151105165948.9"><vh>第3</vh></v>
+<v t="40323255.20151105165948.10"><vh>第4</vh></v>
+<v t="40323255.20151105165948.11"><vh>第5</vh></v>
+</v>
+</v>
+<v t="40323255.20151105165948.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915170743.3" a="E"><vh>head</vh>
@@ -527,6 +545,92 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="40323255.20151105165948.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20151105165948.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
+    &lt;p&gt;在一次做引伸，不過這次是引伸除料，再矩形中心畫直徑8mm的圓孔，選擇貫穿除料，同樣的動作在其他面進行，完成後，就會有六個圓孔；在選擇導圓角，尺寸5mm在每個邊線進行，最後要在圓孔上進行導角，尺寸為0.5mmX0.5mm，第一個零件就完成了。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151105165948.11">&lt;section&gt;
+    &lt;h1&gt;自評分數&lt;/h1&gt;
+    &lt;p&gt;我給我自己的分數：80 &lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151105165948.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323255.20151105165948.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20151105165948.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20151105165948.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323255.20151105165948.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20151105165948.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20151105165948.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;p&gt;四設計二乙&lt;/p&gt;	
+    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20151105165948.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
+    &lt;p&gt;我們第一個零件，是一個邊長都是30mm的正立方體，並且在六面的中間都給它去除直徑8mm的孔，在給邊長做圓角半徑5mm，再給孔一個導角0.5mmX0.5mm。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151105165948.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
+    &lt;p&gt;我們先按下引伸，在前視圖建立草圖；在creo這套軟體，我們在繪製草圖我們必須先給草圖參照線，它才能定義在我們要的地方；在給草圖水平以及垂直的中心線，這樣等等畫矩形才能給它定義尺寸，給它一個矩形30mmX30mm，尺寸給好後按確認，給它深長30mm。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
