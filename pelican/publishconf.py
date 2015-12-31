@@ -25,7 +25,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
+LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),('班及個人網頁','http://2015fallhw.github.io/2015fallcadpb/user/40323255/'),
          ('Python', 'http://python.org/'),
          ('You can modify those links in your config file', '#'),)
 
