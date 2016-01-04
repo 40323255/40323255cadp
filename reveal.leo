@@ -845,6 +845,7 @@
 
 </t>
 <t tx="40323255.20151229102347.10">&lt;&lt; header &gt;&gt;
+
 &lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Hinge&lt;/h2&gt;
     &lt;p&gt;Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。&lt;/p&gt;
@@ -852,6 +853,7 @@
 				
 </t>
 <t tx="40323255.20151229102347.11">&lt;&lt; header &gt;&gt;
+
 &lt;section&gt;
     &lt;h2&gt;心得及自評分數&lt;/h2&gt;
     &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
@@ -907,7 +909,10 @@
 <t tx="40323255.20151229102347.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;&lt; header &gt;&gt;
+
+
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
     &lt;p&gt;Creo組合核桃機&lt;/p&gt;
@@ -917,6 +922,7 @@
 	
 </t>
 <t tx="40323255.20151229102347.8">&lt;&lt; header &gt;&gt;
+
 &lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Adjuster&lt;/h2&gt;
     &lt;p&gt;Adjuster是拿來夾持核桃用的零件。我們可以先從前視圖，畫出一半的圖案，然後做旋轉長料就會有我們需要的形狀囉。&lt;/p&gt;
@@ -925,6 +931,7 @@
 				
 </t>
 <t tx="40323255.20151229102347.9">&lt;&lt; header &gt;&gt;
+
 &lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Handle&lt;/h2&gt;
     &lt;p&gt;Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。&lt;/p&gt;
@@ -999,7 +1006,10 @@
 <t tx="40323255.20151231163307.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;&lt; header &gt;&gt;
+
+
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
     &lt;p&gt;ONSHAPE組核桃機&lt;/p&gt;
