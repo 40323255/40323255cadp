@@ -380,19 +380,19 @@
 <v t="40323255.20151229102347.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323255.20151229102347.6" a="E"><vh>div class="slides"</vh>
 <v t="40323255.20151229102347.7" a="E"><vh>有關我的作業</vh>
-<v t="leo.20160104105712.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110532.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20151229102347.8" a="E"><vh>第2</vh>
-<v t="leo.20160104105722.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110542.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20151229102347.9" a="E"><vh>第3</vh>
-<v t="leo.20160104105725.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110547.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20151229102347.10" a="E"><vh>第4</vh>
-<v t="leo.20160104105727.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110550.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20151229102347.11" a="E"><vh>第5</vh>
-<v t="leo.20160104105738.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110552.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
 </v>
@@ -407,22 +407,22 @@
 <v t="40323255.20151231163307.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323255.20151231163307.6" a="E"><vh>div class="slides"</vh>
 <v t="40323255.20151231163307.7" a="E"><vh>有關我的作業</vh>
-<v t="leo.20160104105948.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110657.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20151231163307.8" a="E"><vh>第2</vh>
-<v t="leo.20160104105951.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110708.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20151231163307.9" a="E"><vh>第3</vh>
-<v t="leo.20160104105954.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110727.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20151231163307.10" a="E"><vh>第4</vh>
-<v t="leo.20160104105956.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110731.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20160103131803.1" a="E"><vh>第5</vh>
-<v t="leo.20160104105959.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110734.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="40323255.20151231163307.11" a="E"><vh>第6</vh>
-<v t="leo.20160104110002.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160104110737.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
 </v>
@@ -436,39 +436,17 @@
 <v t="leo.20160104101019.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160104101019.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160104101019.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160104101019.7" a="E"><vh>有關我的作業</vh>
-<v t="leo.20160104110030.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.8" a="E"><vh>簡介</vh>
-<v t="leo.20160104110032.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.9" a="E"><vh>1</vh>
-<v t="leo.20160104110035.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.10" a="E"><vh>2</vh>
-<v t="leo.20160104110037.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.11" a="E"><vh>3</vh>
-<v t="leo.20160104110040.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.12" a="E"><vh>4</vh>
-<v t="leo.20160104110042.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.13" a="E"><vh>5</vh>
-<v t="leo.20160104110044.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.14" a="E"><vh>6</vh>
-<v t="leo.20160104110047.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.15" a="E"><vh>7</vh>
-<v t="leo.20160104110050.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.16" a="E"><vh>8</vh>
-<v t="leo.20160104110053.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104101019.17" a="E"><vh>心得</vh>
-<v t="leo.20160104110056.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
+<v t="leo.20160104101019.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160104101019.8"><vh>簡介</vh></v>
+<v t="leo.20160104101019.9"><vh>1</vh></v>
+<v t="leo.20160104101019.10"><vh>2</vh></v>
+<v t="leo.20160104101019.11"><vh>3</vh></v>
+<v t="leo.20160104101019.12"><vh>4</vh></v>
+<v t="leo.20160104101019.13"><vh>5</vh></v>
+<v t="leo.20160104101019.14"><vh>6</vh></v>
+<v t="leo.20160104101019.15"><vh>7</vh></v>
+<v t="leo.20160104101019.16"><vh>8</vh></v>
+<v t="leo.20160104101019.17"><vh>心得</vh></v>
 </v>
 </v>
 <v t="leo.20160104101019.18"><vh>script</vh></v>
@@ -481,21 +459,11 @@
 <v t="leo.20160104102344.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160104102344.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160104102344.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160104102344.7" a="E"><vh>有關我的作業</vh>
-<v t="leo.20160104110231.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104102344.9" a="E"><vh>1</vh>
-<v t="leo.20160104110237.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104102640.1" a="E"><vh>2</vh>
-<v t="leo.20160104110239.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104102830.1" a="E"><vh>3</vh>
-<v t="leo.20160104110242.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20160104102344.17" a="E"><vh>心得</vh>
-<v t="leo.20160104110245.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
+<v t="leo.20160104102344.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160104102344.9"><vh>1</vh></v>
+<v t="leo.20160104102640.1"><vh>2</vh></v>
+<v t="leo.20160104102830.1"><vh>3</vh></v>
+<v t="leo.20160104102344.17"><vh>心得</vh></v>
 </v>
 </v>
 <v t="leo.20160104102344.18"><vh>script</vh></v>
@@ -3196,137 +3164,57 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104105712.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110532.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105722.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110542.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105725.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110547.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105727.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110550.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105738.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110552.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105948.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110657.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105951.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110708.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105954.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110727.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105956.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110731.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104105959.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110734.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110002.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110030.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110032.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110035.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110037.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110040.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110042.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110044.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110047.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110050.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110053.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110056.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110231.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110237.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110239.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110242.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
-<t tx="leo.20160104110245.1">&lt;section data-state="header1"&gt;
+<t tx="leo.20160104110737.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
