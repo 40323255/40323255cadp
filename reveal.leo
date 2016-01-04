@@ -850,7 +850,8 @@
     &lt;h2&gt;Hinge&lt;/h2&gt;
     &lt;p&gt;Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。&lt;/p&gt;
 &lt;/section&gt;
-				
+	
+&lt;/section&gt;				
 </t>
 <t tx="40323255.20151229102347.11">&lt;&lt; header &gt;&gt;
 
@@ -860,7 +861,8 @@
     &lt;p&gt;自評分數：80 &lt;/p&gt;
 
 &lt;/section&gt;
-				
+	
+&lt;/section&gt;				
 </t>
 <t tx="40323255.20151229102347.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -920,6 +922,7 @@
     &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
 &lt;/section&gt;
 	
+&lt;/section&gt;	
 </t>
 <t tx="40323255.20151229102347.8">&lt;&lt; header &gt;&gt;
 
@@ -929,14 +932,16 @@
     
 &lt;/section&gt;
 				
-</t>
+	
+&lt;/section&gt;</t>
 <t tx="40323255.20151229102347.9">&lt;&lt; header &gt;&gt;
 
 &lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Handle&lt;/h2&gt;
     &lt;p&gt;Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。&lt;/p&gt;
 &lt;/section&gt;
-				
+	
+&lt;/section&gt;				
 </t>
 <t tx="40323255.20151231163307.1">@language xml
 @tabwidth -4
@@ -948,7 +953,8 @@
     &lt;h2&gt;Handle&lt;/h2&gt;
     &lt;p&gt;Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。&lt;/p&gt;
 &lt;/section&gt;
-				
+	
+&lt;/section&gt;				
 </t>
 <t tx="40323255.20151231163307.11">&lt;&lt; header &gt;&gt;
 &lt;section&gt;
@@ -957,7 +963,8 @@
     &lt;p&gt;自評分數：80 &lt;/p&gt;
 
 &lt;/section&gt;
-				
+	
+&lt;/section&gt;				
 </t>
 <t tx="40323255.20151231163307.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -1017,6 +1024,7 @@
     &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
 &lt;/section&gt;
 	
+&lt;/section&gt;	
 </t>
 <t tx="40323255.20151231163307.8">&lt;&lt; header &gt;&gt;
 &lt;section id="hw-task-one"&gt;
@@ -1024,21 +1032,24 @@
     &lt;p&gt;onshape，是一個由SoildWorks跟遠端做建立的網頁，簡單的來說就是[簡易的線上SoildWorks]，它可以不用再經過繁雜的下載程序，目前我們只需要申請帳號就可使用了；它最大的特點，就是可以跟別人共同開發零件、共同組立產品，是一個相當有實用價值的網頁。&lt;/p&gt;
     
 &lt;/section&gt;
-				
+	
+&lt;/section&gt;				
 </t>
 <t tx="40323255.20151231163307.9">&lt;&lt; header &gt;&gt;
 &lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Adjuster&lt;/h2&gt;
     &lt;p&gt;Adjuster是拿來夾持核桃用的零件。我們可以先從前視圖，畫出一半的圖案，然後做旋轉長料就會有我們需要的形狀囉。&lt;/p&gt;
 &lt;/section&gt;
-				
+	
+&lt;/section&gt;				
 </t>
 <t tx="40323255.20160103131803.1">&lt;&lt; header &gt;&gt;
 &lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Hinge&lt;/h2&gt;
     &lt;p&gt;Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。&lt;/p&gt;
 &lt;/section&gt;
-				
+	
+&lt;/section&gt;				
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
