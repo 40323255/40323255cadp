@@ -373,58 +373,102 @@
 </v>
 </v>
 </v>
-<v t="40323255.20151229102347.1"><vh>@clean simplest6.html</vh>
+<v t="40323255.20151229102347.1" a="E"><vh>@clean simplest6.html</vh>
 <v t="40323255.20151229102347.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151229102347.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20151229102347.4" a="E"><vh>body 標註</vh>
 <v t="40323255.20151229102347.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323255.20151229102347.6" a="E"><vh>div class="slides"</vh>
-<v t="40323255.20151229102347.7"><vh>有關我的作業</vh></v>
-<v t="40323255.20151229102347.8"><vh>第2</vh></v>
-<v t="40323255.20151229102347.9"><vh>第3</vh></v>
-<v t="40323255.20151229102347.10"><vh>第4</vh></v>
-<v t="40323255.20151229102347.11"><vh>第5</vh></v>
+<v t="40323255.20151229102347.7" a="E"><vh>有關我的作業</vh>
+<v t="leo.20160104105712.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20151229102347.8" a="E"><vh>第2</vh>
+<v t="leo.20160104105722.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20151229102347.9" a="E"><vh>第3</vh>
+<v t="leo.20160104105725.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20151229102347.10" a="E"><vh>第4</vh>
+<v t="leo.20160104105727.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20151229102347.11" a="E"><vh>第5</vh>
+<v t="leo.20160104105738.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="40323255.20151229102347.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="40323255.20151231163307.1"><vh>@clean simplest7.html</vh>
+<v t="40323255.20151231163307.1" a="E"><vh>@clean simplest7.html</vh>
 <v t="40323255.20151231163307.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151231163307.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20151231163307.4" a="E"><vh>body 標註</vh>
 <v t="40323255.20151231163307.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323255.20151231163307.6" a="E"><vh>div class="slides"</vh>
-<v t="40323255.20151231163307.7"><vh>有關我的作業</vh></v>
-<v t="40323255.20151231163307.8"><vh>第2</vh></v>
-<v t="40323255.20151231163307.9"><vh>第3</vh></v>
-<v t="40323255.20151231163307.10"><vh>第4</vh></v>
-<v t="40323255.20160103131803.1"><vh>第5</vh></v>
-<v t="40323255.20151231163307.11"><vh>第6</vh></v>
+<v t="40323255.20151231163307.7" a="E"><vh>有關我的作業</vh>
+<v t="leo.20160104105948.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20151231163307.8" a="E"><vh>第2</vh>
+<v t="leo.20160104105951.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20151231163307.9" a="E"><vh>第3</vh>
+<v t="leo.20160104105954.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20151231163307.10" a="E"><vh>第4</vh>
+<v t="leo.20160104105956.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20160103131803.1" a="E"><vh>第5</vh>
+<v t="leo.20160104105959.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20151231163307.11" a="E"><vh>第6</vh>
+<v t="leo.20160104110002.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="40323255.20151231163307.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20160104101019.1"><vh>@clean simplest8.html</vh>
+<v t="leo.20160104101019.1" a="E"><vh>@clean simplest8.html</vh>
 <v t="leo.20160104101019.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104101019.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104101019.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160104101019.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160104101019.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160104101019.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160104101019.8"><vh>簡介</vh></v>
-<v t="leo.20160104101019.9"><vh>1</vh></v>
-<v t="leo.20160104101019.10"><vh>2</vh></v>
-<v t="leo.20160104101019.11"><vh>3</vh></v>
-<v t="leo.20160104101019.12"><vh>4</vh></v>
-<v t="leo.20160104101019.13"><vh>5</vh></v>
-<v t="leo.20160104101019.14"><vh>6</vh></v>
-<v t="leo.20160104101019.15"><vh>7</vh></v>
-<v t="leo.20160104101019.16"><vh>8</vh></v>
-<v t="leo.20160104101019.17"><vh>心得</vh></v>
+<v t="leo.20160104101019.7" a="E"><vh>有關我的作業</vh>
+<v t="leo.20160104110030.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.8" a="E"><vh>簡介</vh>
+<v t="leo.20160104110032.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.9" a="E"><vh>1</vh>
+<v t="leo.20160104110035.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.10" a="E"><vh>2</vh>
+<v t="leo.20160104110037.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.11" a="E"><vh>3</vh>
+<v t="leo.20160104110040.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.12" a="E"><vh>4</vh>
+<v t="leo.20160104110042.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.13" a="E"><vh>5</vh>
+<v t="leo.20160104110044.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.14" a="E"><vh>6</vh>
+<v t="leo.20160104110047.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.15" a="E"><vh>7</vh>
+<v t="leo.20160104110050.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.16" a="E"><vh>8</vh>
+<v t="leo.20160104110053.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101019.17" a="E"><vh>心得</vh>
+<v t="leo.20160104110056.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20160104101019.18"><vh>script</vh></v>
@@ -437,11 +481,21 @@
 <v t="leo.20160104102344.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160104102344.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160104102344.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160104102344.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160104102344.9"><vh>1</vh></v>
-<v t="leo.20160104102640.1"><vh>2</vh></v>
-<v t="leo.20160104102830.1"><vh>3</vh></v>
-<v t="leo.20160104102344.17"><vh>心得</vh></v>
+<v t="leo.20160104102344.7" a="E"><vh>有關我的作業</vh>
+<v t="leo.20160104110231.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104102344.9" a="E"><vh>1</vh>
+<v t="leo.20160104110237.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104102640.1" a="E"><vh>2</vh>
+<v t="leo.20160104110239.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104102830.1" a="E"><vh>3</vh>
+<v t="leo.20160104110242.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104102344.17" a="E"><vh>心得</vh>
+<v t="leo.20160104110245.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20160104102344.18"><vh>script</vh></v>
@@ -822,13 +876,15 @@
 @others
 
 </t>
-<t tx="40323255.20151229102347.10">&lt;section id="hw-task-one"&gt;
+<t tx="40323255.20151229102347.10">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Hinge&lt;/h2&gt;
     &lt;p&gt;Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323255.20151229102347.11">&lt;section&gt;
+<t tx="40323255.20151229102347.11">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h2&gt;心得及自評分數&lt;/h2&gt;
     &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
     &lt;p&gt;自評分數：80 &lt;/p&gt;
@@ -883,6 +939,7 @@
 <t tx="40323255.20151229102347.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
     &lt;p&gt;Creo組合核桃機&lt;/p&gt;
@@ -891,14 +948,16 @@
 &lt;/section&gt;
 	
 </t>
-<t tx="40323255.20151229102347.8">&lt;section id="hw-task-one"&gt;
+<t tx="40323255.20151229102347.8">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Adjuster&lt;/h2&gt;
     &lt;p&gt;Adjuster是拿來夾持核桃用的零件。我們可以先從前視圖，畫出一半的圖案，然後做旋轉長料就會有我們需要的形狀囉。&lt;/p&gt;
     
 &lt;/section&gt;
 				
 </t>
-<t tx="40323255.20151229102347.9">&lt;section id="hw-task-one"&gt;
+<t tx="40323255.20151229102347.9">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Handle&lt;/h2&gt;
     &lt;p&gt;Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。&lt;/p&gt;
 &lt;/section&gt;
@@ -909,13 +968,15 @@
 @others
 
 </t>
-<t tx="40323255.20151231163307.10">&lt;section id="hw-task-one"&gt;
+<t tx="40323255.20151231163307.10">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Handle&lt;/h2&gt;
     &lt;p&gt;Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323255.20151231163307.11">&lt;section&gt;
+<t tx="40323255.20151231163307.11">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h2&gt;心得及自評分數&lt;/h2&gt;
     &lt;p&gt;Onshape用完之後，覺得它的實用性很高以及相當方便，我們在外沒有任何繪圖軟體的時候就很需要它了，又可以讓我們跟組員們做統整的動作，又可以做共同協同零件的工作。&lt;/p&gt;
     &lt;p&gt;自評分數：80 &lt;/p&gt;
@@ -970,6 +1031,7 @@
 <t tx="40323255.20151231163307.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
     &lt;p&gt;ONSHAPE組核桃機&lt;/p&gt;
@@ -978,20 +1040,23 @@
 &lt;/section&gt;
 	
 </t>
-<t tx="40323255.20151231163307.8">&lt;section id="hw-task-one"&gt;
+<t tx="40323255.20151231163307.8">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Onshape簡介&lt;/h2&gt;
     &lt;p&gt;onshape，是一個由SoildWorks跟遠端做建立的網頁，簡單的來說就是[簡易的線上SoildWorks]，它可以不用再經過繁雜的下載程序，目前我們只需要申請帳號就可使用了；它最大的特點，就是可以跟別人共同開發零件、共同組立產品，是一個相當有實用價值的網頁。&lt;/p&gt;
     
 &lt;/section&gt;
 				
 </t>
-<t tx="40323255.20151231163307.9">&lt;section id="hw-task-one"&gt;
+<t tx="40323255.20151231163307.9">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Adjuster&lt;/h2&gt;
     &lt;p&gt;Adjuster是拿來夾持核桃用的零件。我們可以先從前視圖，畫出一半的圖案，然後做旋轉長料就會有我們需要的形狀囉。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323255.20160103131803.1">&lt;section id="hw-task-one"&gt;
+<t tx="40323255.20160103131803.1">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Hinge&lt;/h2&gt;
     &lt;p&gt;Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。&lt;/p&gt;
 &lt;/section&gt;
@@ -2911,49 +2976,57 @@ sudo pip3 install IPython[notebook]==3.2.1
 @others
 
 </t>
-<t tx="leo.20160104101019.10">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.10">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Base&lt;/h2&gt;
     &lt;p&gt;Base是核桃機的機座。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104101019.11">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.11">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Connection&lt;/h2&gt;
     &lt;p&gt;Connection是連接桿，用來連接handle及piston用的。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104101019.12">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.12">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Piston&lt;/h2&gt;
     &lt;p&gt;Piston是拿來夾持核桃用的零件。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104101019.13">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.13">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Handle&lt;/h2&gt;
     &lt;p&gt;Handle是負責操控的零件。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104101019.14">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.14">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Hinge&lt;/h2&gt;
     &lt;p&gt;Hinge是用來固定我們Handle的零件。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104101019.15">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.15">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Cylinder&lt;/h2&gt;
     &lt;p&gt;Cylinder是用來固定piston的基座。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104101019.16">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.16">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Adjuster_base&lt;/h2&gt;
     &lt;p&gt;Adjuster_base是用來固定Adjuster的基座。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104101019.17">&lt;section&gt;
+<t tx="leo.20160104101019.17">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h2&gt;心得及自評分數&lt;/h2&gt;
     &lt;p&gt;Onshape用完之後，覺得它的實用性很高以及相當方便，我們在外沒有任何繪圖軟體的時候就很需要它了，又可以讓我們跟組員們做統整的動作，又可以做共同協同零件的工作。&lt;/p&gt;
     &lt;p&gt;自評分數：80 &lt;/p&gt;
@@ -3008,6 +3081,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 <t tx="leo.20160104101019.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
     &lt;p&gt;ONSHAPE組核桃機&lt;/p&gt;
@@ -3016,14 +3090,16 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20160104101019.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.8">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Onshape簡介&lt;/h2&gt;
     &lt;p&gt;onshape，是一個由SoildWorks跟遠端做建立的網頁，簡單的來說就是[簡易的線上SoildWorks]，它可以不用再經過繁雜的下載程序，目前我們只需要申請帳號就可使用了；它最大的特點，就是可以跟別人共同開發零件、共同組立產品，是一個相當有實用價值的網頁。&lt;/p&gt;
     
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104101019.9">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104101019.9">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Adjuster&lt;/h2&gt;
     &lt;p&gt;Adjuster是拿來夾持核桃用的零件。&lt;/p&gt;
 &lt;/section&gt;
@@ -3034,7 +3110,8 @@ sudo pip3 install IPython[notebook]==3.2.1
 @others
 
 </t>
-<t tx="leo.20160104102344.17">&lt;section&gt;
+<t tx="leo.20160104102344.17">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h2&gt;心得及自評分數&lt;/h2&gt;
     &lt;p&gt;一開始覺得copy所有檔案，檔案太大所以很懶得去複製，之後發現只要複製一部份，再加上可攜環境，只要上課前花個幾分鐘，就可以跟正常一樣運行了。&lt;/p&gt;
     &lt;p&gt;自評分數：80 &lt;/p&gt;
@@ -3089,6 +3166,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 <t tx="leo.20160104102344.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
     &lt;p&gt;Leo可攜環境&lt;/p&gt;
@@ -3097,23 +3175,161 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20160104102344.9">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104102344.9">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;下載可攜環境 (FIX)&lt;/h2&gt;
     &lt;p&gt;必須到2015fall課程下載，然後解壓縮，將fix整個資料夾，複製到Ana3_2015裡面的data。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104102640.1">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104102640.1">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;下載可攜環境 (Leo-Editor)&lt;/h2&gt;
     &lt;p&gt;到Google搜尋leo-editor github，下載leo-editor-broke-abbrev的壓縮檔，下載完之後不必解壓縮，直接複製到Ana3_2015裡面的data。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20160104102830.1">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160104102830.1">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;改變可攜環境 (SciTE)&lt;/h2&gt;
     &lt;p&gt;打開SciTE，把fix資料夾裡面的fix.bat及start.bat丟進去SciTE，然後進去改變的步驟，就可以開啟Leo Editor。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
+<t tx="leo.20160104105712.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105722.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105725.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105727.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105738.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105948.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105951.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105954.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105956.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105959.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110002.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110030.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110032.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110035.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110037.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110040.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110042.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110044.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110047.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110050.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110053.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110056.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110231.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110237.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110239.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110242.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="leo.20160104110245.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>
