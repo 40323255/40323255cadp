@@ -42,6 +42,7 @@
 <v t="leo.20151104150607.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="40323255.20151105165631.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="40323255.20151105201724.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="40323255.20160107002637.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="leo.20151221093728.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="leo.20160104102103.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20160104100941.1"><vh>@edit 2015cphww14.md</vh></v>
@@ -373,7 +374,7 @@
 </v>
 </v>
 </v>
-<v t="40323255.20151229102347.1" a="E"><vh>@clean simplest6.html</vh>
+<v t="40323255.20151229102347.1"><vh>@clean simplest6.html</vh>
 <v t="40323255.20151229102347.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151229102347.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20151229102347.4" a="E"><vh>body 標註</vh>
@@ -400,7 +401,7 @@
 </v>
 </v>
 </v>
-<v t="40323255.20151231163307.1" a="E"><vh>@clean simplest7.html</vh>
+<v t="40323255.20151231163307.1"><vh>@clean simplest7.html</vh>
 <v t="40323255.20151231163307.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151231163307.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20151231163307.4" a="E"><vh>body 標註</vh>
@@ -430,7 +431,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104101019.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="leo.20160104101019.1"><vh>@clean simplest8.html</vh>
 <v t="leo.20160104101019.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104101019.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104101019.4" a="E"><vh>body 標註</vh>
@@ -475,7 +476,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104102344.1" a="E"><vh>@clean simplest9.html</vh>
+<v t="leo.20160104102344.1"><vh>@clean simplest9.html</vh>
 <v t="leo.20160104102344.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104102344.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104102344.4" a="E"><vh>body 標註</vh>
@@ -499,6 +500,30 @@
 </v>
 </v>
 <v t="leo.20160104102344.18"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20160107002731.1" a="E"><vh>@clean simplest10.html</vh>
+<v t="40323255.20160107002731.2"><vh>檔案說明</vh></v>
+<v t="40323255.20160107002731.3" a="E"><vh>html 標註</vh>
+<v t="40323255.20160107002731.4" a="E"><vh>body 標註</vh>
+<v t="40323255.20160107002731.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323255.20160107002731.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20160107002731.7" a="E"><vh>有關我的作業</vh>
+<v t="40323255.20160107002731.8"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20160107002731.9" a="E"><vh>1</vh>
+<v t="40323255.20160107002731.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20160107002731.11" a="E"><vh>2</vh>
+<v t="40323255.20160107002731.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20160107002731.15" a="E"><vh>心得</vh>
+<v t="40323255.20160107002731.16"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20160107002731.17"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1082,6 +1107,130 @@
 &lt;/section&gt;
 	
 &lt;/section&gt;				
+</t>
+<t tx="40323255.20160107002731.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20160107002731.10">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="40323255.20160107002731.11">&lt;&lt; header &gt;&gt;
+    &lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;步驟&lt;/h2&gt;
+    &lt;p&gt;1.安裝python3.5
+2.到 cmd 裡面輸入指令
+(1)conda install pip。
+(2)pip install pelican Markdown。
+(3)conda install pyqt。
+(4)pip uninstall leo ；但注意，必須先解除原先Leo 5.0版，否則無法做。
+(5)pip install  ；leo-editor github網址 
+(6)conda install anaconda-client。
+(7)conda install jupyte。&lt;/p&gt;
+     &lt;/section&gt;
+	
+&lt;/section&gt;				
+				
+</t>
+<t tx="40323255.20160107002731.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="40323255.20160107002731.15">&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
+    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
+    &lt;p&gt;我們必須一直去更新版次，越新的版次，我們就會有更好的環境去作業，所以一定要學會如何去更新版次。&lt;/p&gt;
+    &lt;p&gt;自評分數：75 &lt;/p&gt;
+
+    &lt;/section&gt;
+	
+&lt;/section&gt;				
+				
+</t>
+<t tx="40323255.20160107002731.16">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="40323255.20160107002731.17">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323255.20160107002731.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20160107002731.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20160107002731.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323255.20160107002731.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160107002731.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160107002731.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+
+&lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;p&gt;更新Leo版次&lt;/p&gt;
+    &lt;p&gt;四設計二乙&lt;/p&gt;	
+    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;/section&gt;				
+	
+</t>
+<t tx="40323255.20160107002731.8">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="40323255.20160107002731.9">&lt;&lt; header &gt;&gt;
+
+   &lt;section id="hw-task-one"&gt;
+   &lt;h2&gt;miniconda更新版次&lt;/h2&gt;
+   &lt;p&gt;下載完miniconda，安裝它。&lt;/p&gt;
+   &lt;/section&gt;
+	
+&lt;/section&gt;				
+				
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
