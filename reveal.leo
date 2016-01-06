@@ -1121,14 +1121,14 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt
 <t tx="40323255.20160107002731.11">&lt;&lt; header &gt;&gt;
     &lt;section id="hw-task-one"&gt;
     &lt;h2&gt;步驟&lt;/h2&gt;
-    &lt;p&gt;1.安裝python3.5
-2.到 cmd 裡面輸入指令
-(1)conda install pip。
-(2)pip install pelican Markdown。
-(3)conda install pyqt。
-(4)pip uninstall leo ；但注意，必須先解除原先Leo 5.0版，否則無法做。
-(5)pip install  ；leo-editor github網址 
-(6)conda install anaconda-client。
+    &lt;p&gt;1.安裝python3.5&lt;/p&gt;
+2.到 cmd 裡面輸入指令&lt;/p&gt;
+(1)conda install pip。&lt;/p&gt;
+(2)pip install pelican Markdown。&lt;/p&gt;
+(3)conda install pyqt。&lt;/p&gt;
+(4)pip uninstall leo ；但注意，必須先解除原先Leo 5.0版，否則無法做。&lt;/p&gt;
+(5)pip install  ；leo-editor github網址。 &lt;/p&gt;
+(6)conda install anaconda-client。&lt;/p&gt;
 (7)conda install jupyte。&lt;/p&gt;
      &lt;/section&gt;
 	
